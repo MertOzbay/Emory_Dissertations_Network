@@ -1,4 +1,6 @@
 # Emory Dissertations Network
+
+![](https://github.com/MertOzbay/Emory_Dissertations_Network/blob/main/screenshot_015438.png?raw=true "Network")
 This is a Data Science project I made for my "QTM 340: Approaches to Data Science with Text" class. I used data from Emory Theses and Dissertations repository and textual analysis methods to computationally analyze collaboration between departments. Read my paper [here](Project_Paper.pdf).
 
 I can't share my data since it is copyright-protected.
